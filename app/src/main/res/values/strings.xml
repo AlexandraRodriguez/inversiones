@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Inversiones</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_home">Home</string>
+    <string name="nav_recent">Recientes</string>
+    <string name="nav_help">Guía</string>
+
+    <string name="action_settings">Settings</string>
+</resources>
